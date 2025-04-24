@@ -1,4 +1,4 @@
-# 🧬 **Breast Cancer – Limpieza, Transformación y EDA**  
+# 🧬 **Breast Cancer – Data Wrangling & EDA**  
 
 Este repositorio contiene un notebook enfocado en la **limpieza**, **transformación** y **análisis exploratorio de datos (EDA)** del dataset *Breast Cancer*. El objetivo principal es preparar los datos para futuras aplicaciones analíticas o predictivas, mediante un proceso estructurado y reproducible.
 
@@ -22,9 +22,8 @@ El propósito es dejar el dataset en condiciones óptimas para futuros modelos d
 
 ## 🧰 **Tecnologías Utilizadas**  
 
-- Python 3
+- Python
 - Pandas
-- NumPy
 - Seaborn
 - Matplotlib
 - Jupyter Notebook
