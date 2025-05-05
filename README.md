@@ -1,8 +1,8 @@
-# 🧬 BreastCancer – Data Wrangling & EDA
+# 🧬 Análisis de Datos – Diagnóstico Médico (Breast Cancer Wisconsin)
 
 Notebook de limpieza, transformación y análisis exploratorio (EDA) sobre el *Breast Cancer Wisconsin (Diagnostic) Dataset*, preparando los datos para futuros modelos analíticos.
 
-## 🎯 Objetivo del Análisis
+## 🎯 Objetivos
 
 - Asegurar calidad de datos tratando valores nulos y columnas irrelevantes.
 - Transformar variables para facilitar análisis.
