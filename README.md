@@ -1,4 +1,4 @@
-# 🧬 Análisis de Datos – Diagnóstico Médico (Dataset Breast Cancer Wisconsin)
+# 🧬 Análisis de Datos – Diagnóstico Médico (Dataset BreastCancer)
 
 Notebook de limpieza, transformación y análisis exploratorio (EDA) sobre el *Breast Cancer Wisconsin (Diagnostic) Dataset*, preparando los datos para futuros modelos analíticos.
 
